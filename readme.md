@@ -1,5 +1,4 @@
-# Livro de Receitas :cook
+# Livro de Receitas :chicken:
 
-Seja bem vindo ao livro de receitas! ;)
+Seja bem vindo ao livro de receitas! :happy:
  - Estrogonofe
- - Pavê
